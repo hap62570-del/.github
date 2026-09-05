@@ -6,7 +6,7 @@ GitHub takes the security of our software products and services seriously, inclu
 
 Even though [open source repositories are outside of the scope of our bug bounty program](https://bounty.github.com/scope) and therefore not eligible for bounty rewards, we will ensure that your finding gets passed along to the appropriate maintainers for remediation.
 
-## Reporting Security Issues
+## Reporting Security Issues telegram 
 
 If you believe you have found a security vulnerability in any GitHub-owned repository, please report it to us through coordinated disclosure.
 
